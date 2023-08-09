@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/REACT_preEntrega_MatiasLago/static/css/main.c9e10cfb.css",
+    "main.js": "/REACT_preEntrega_MatiasLago/static/js/main.1d7fadd9.js",
+    "static/js/787.e31e8e9d.chunk.js": "/REACT_preEntrega_MatiasLago/static/js/787.e31e8e9d.chunk.js",
+    "static/media/fondo-moreno.jpg": "/REACT_preEntrega_MatiasLago/static/media/fondo-moreno.c59d6b642efce7092924.jpg",
+    "static/media/glaciar-ar.png": "/REACT_preEntrega_MatiasLago/static/media/glaciar-ar.631b028ff7f046da7b84.png",
+    "index.html": "/REACT_preEntrega_MatiasLago/index.html",
+    "main.c9e10cfb.css.map": "/REACT_preEntrega_MatiasLago/static/css/main.c9e10cfb.css.map",
+    "main.1d7fadd9.js.map": "/REACT_preEntrega_MatiasLago/static/js/main.1d7fadd9.js.map",
+    "787.e31e8e9d.chunk.js.map": "/REACT_preEntrega_MatiasLago/static/js/787.e31e8e9d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c9e10cfb.css",
+    "static/js/main.1d7fadd9.js"
+  ]
+}
