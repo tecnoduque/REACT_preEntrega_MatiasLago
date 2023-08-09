@@ -1,7 +1,6 @@
 import React from "react"
 import './style.css'
 import { BsFillCartFill } from "react-icons/bs"
-import "./style.css"
 
 function CartWidget() {
   return (
